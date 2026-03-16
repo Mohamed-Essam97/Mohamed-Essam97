@@ -71,6 +71,12 @@ Luxury residence management mobile platform for services, resident communication
 </a>
 </p>
 
+<p align="center">
+<img src="screenshots/app1.png" width="200"/>
+<img src="screenshots/app2.png" width="200"/>
+<img src="screenshots/app3.png" width="200"/>
+</p>
+
 ### Lasirena Community
 Community management app for resident requests, services, and communication.
 

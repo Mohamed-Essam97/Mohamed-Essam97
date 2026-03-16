@@ -101,6 +101,15 @@ Utility consumption and bill payment app for electricity, gas, and water with se
 ### Emkan Arabia
 FinTech mobile application with secure payments and notifications.
 
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.emkanapp">
+<img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay"/>
+</a>
+
+<a href="https://apps.apple.com/sa/app/emkan-finance/id1508990688">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
 ---
 
 ## 🧠 Engineering Focus

@@ -57,10 +57,15 @@
 
 ---
 
-## 📱 Featured Projects
+## 📱 Apps Used in Production
 
 ### JW Marriott Residences Al Jazi
 Luxury residence management mobile platform for services, resident communication, and concierge experience.
+<p align="center">
+  <img src="screenshots/jw1.png" width="200"/>
+  <img src="screenshots/jw2.png" width="200"/>
+  <img src="screenshots/jw3.png" width="200"/>
+</p>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.iometer.jwmarriott">
 <img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
@@ -69,12 +74,6 @@ Luxury residence management mobile platform for services, resident communication
 <a href="https://apps.apple.com/eg/app/jw-marriott-residences-al-jazi/id6670202084">
 <img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
 </a>
-</p>
-
-<p align="center">
-<img src="screenshots/app1.png" width="200"/>
-<img src="screenshots/app2.png" width="200"/>
-<img src="screenshots/app3.png" width="200"/>
 </p>
 
 ### Lasirena Community

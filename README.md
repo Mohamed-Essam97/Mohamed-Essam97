@@ -106,7 +106,7 @@ FinTech mobile application with secure payments and notifications.
 <img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay"/>
 </a>
 
-<a href="https://apps.apple.com/sa/app/emkan-finance/id1508990688">
+<a href="https://apps.apple.com/sa/app/%D8%A5%D9%85%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/id1573601431">
 <img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
 </a>
 </p>

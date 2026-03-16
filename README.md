@@ -61,12 +61,41 @@
 
 ### JW Marriott Residences Al Jazi
 Luxury residence management mobile platform for services, resident communication, and concierge experience.
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.iometer.jwmarriott">
+<img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
+
+<a href="https://apps.apple.com/eg/app/jw-marriott-residences-al-jazi/id6670202084">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
 
 ### Lasirena Community
 Community management app for resident requests, services, and communication.
 
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.iometer.lasirena">
+<img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay"/>
+</a>
+
+<a href="https://apps.apple.com/eg/app/lasirena-community/id6748661226">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
+
 ### IoMeter Community Platform
 Utility consumption and bill payment app for electricity, gas, and water with secure payment integration.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.thed.iometer">
+<img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay"/>
+</a>
+
+<a href="https://apps.apple.com/eg/app/iometer-community/id1588429456">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple"/>
+</a>
+</p>
 
 ### Emkan Arabia
 FinTech mobile application with secure payments and notifications.

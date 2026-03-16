@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[YOUR_IMAGE_URL](https://postimg.cc/yDbLWxS5)" width="140" style="border-radius:50%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
 
 <p align="center">

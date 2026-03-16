@@ -20,7 +20,7 @@ Building scalable cross-platform mobile apps with Flutter
 
 ### Mobile Development
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,ios" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,ts,supabase,xd,androidstudio,apple" />
 </p>
 
 ### Architecture & State Management

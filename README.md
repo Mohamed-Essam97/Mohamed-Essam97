@@ -102,7 +102,7 @@ Utility consumption and bill payment app for electricity, gas, and water with se
 FinTech mobile application with secure payments and notifications.
 
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.emkanapp">
+<a href="https://play.google.com/store/apps/details?id=com.emkan">
 <img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay"/>
 </a>
 

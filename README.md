@@ -59,3 +59,13 @@ https://www.mohamedessam.tech/
 
 GitHub  
 https://github.com/Mohamed-Essam97
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Essam97&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Essam97&layout=compact&theme=tokyonight)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Essam97&theme=github)
+
